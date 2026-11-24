@@ -11,7 +11,7 @@ Open the link above and download **RB2_PC_Port_1.0.zip**, then follow **Installi
 
 - Windows 10 or 11 (64-bit). Linux / Steam Deck through Proton should work too.
 - A CPU with AVX2 (Intel 4th gen or newer, any AMD Ryzen) and a DirectX 12 GPU.
-- **Your own copy of the game:** the Xbox 360 disc image (.iso) of **Dragon Ball: Raging Blast 2 (USA) (Rev 1)**.
+- **Your own copy of the game:** the Xbox 360 disc image (.iso) of **Dragon Ball: Raging Blast 2 (USA) (Rev 1 / v1.1)**.
   The port does not include the original game's files; the launcher copies them from your disc image.
 - About 12 GB of free disk space.
 
@@ -20,7 +20,7 @@ Open the link above and download **RB2_PC_Port_1.0.zip**, then follow **Installi
 1. Download **RB2_PC_Port_1.0.zip** from the latest release and extract it somewhere that's yours, such as
    `C:\Games\Raging Blast 2` (not in Program Files).
 2. Open **Raging Blast 2 Launcher.exe**.
-3. Press **Select ISO** and choose your Raging Blast 2 (USA) (Rev 1) disc image. The launcher checks it and copies the
+3. Press **Select ISO** and choose your Raging Blast 2 (USA) (Rev 1 / v1.1) disc image. The launcher checks it and copies the
    game's files (about a minute).
 4. The launcher then downloads the game content by itself (Raging Blast 1 characters and maps, music, interface art).
 5. Press **PLAY**.
