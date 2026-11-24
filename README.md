@@ -3,7 +3,9 @@
 A native Windows port of Dragon Ball: Raging Blast 2 (no emulator), with its own launcher, updates, the Raging Blast 1
 roster and maps, and mod support.
 
-This repository holds the **releases**: the launcher, the game updates and the game content the launcher downloads.
+## ⬇️ [Download the game (version 1.0)](https://github.com/Castlesea/rb2-pc-port/releases/latest)
+
+Open the link above and download **RB2_PC_Port_1.0.zip**, then follow **Installing** below.
 
 ## What you need
 
@@ -15,7 +17,7 @@ This repository holds the **releases**: the launcher, the game updates and the g
 
 ## Installing
 
-1. Download the port package from the official link and extract it somewhere that's yours, such as
+1. Download **RB2_PC_Port_1.0.zip** from the latest release and extract it somewhere that's yours, such as
    `C:\Games\Raging Blast 2` (not in Program Files).
 2. Open **Raging Blast 2 Launcher.exe**.
 3. Press **Select ISO** and choose your Raging Blast 2 (USA) (Rev 1) disc image. The launcher checks it and copies the
